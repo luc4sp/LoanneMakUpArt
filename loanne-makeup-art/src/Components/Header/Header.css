@@ -1,0 +1,10 @@
+.header-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+img[alt*="main-logo"] {
+    cursor: pointer;
+ }
