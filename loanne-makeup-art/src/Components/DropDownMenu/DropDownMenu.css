@@ -1,0 +1,19 @@
+#basic-button {
+    margin-top: 1rem;
+    color: black !important;
+    font-size: large;
+    text-transform: capitalize;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#basic-button:hover {
+    background-color: white;
+}
+
+#basic-menu {
+    box-shadow: none;
+}
+
+#item:hover {
+    background-color: white;
+}

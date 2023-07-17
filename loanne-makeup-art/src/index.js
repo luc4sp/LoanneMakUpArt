@@ -19,5 +19,7 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-export { PrestationsMenu } from './Components/PrestationsMenu/PrestationsMenu'
 export { Header } from './Components/Header/Header'
+
+export { PrestationsMenu } from './Components/DropDownMenu/DropDownMenu'
+export { HeaderButton } from './Components/Header/HeaderButton'
